@@ -20,10 +20,3 @@ void CMFCApplication1Dlg::DoDataExchange(CDataExchange* pDX)
 }
 ```
 
-# Show
-
-<video id="show" src="show.mp4"></video>
-<script>
-    var video = document.getElementById('myVideo');
-    video.play();
-</script>
