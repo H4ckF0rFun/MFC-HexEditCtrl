@@ -1,6 +1,6 @@
 # Introduction 
 
-## This is a simple MFC HexEdit Ctrl,support editing operations on smaller data.
+This is a simple MFC HexEdit Ctrl,support editing operations on smaller data.
 
 
 # Usage
@@ -22,5 +22,8 @@ void CMFCApplication1Dlg::DoDataExchange(CDataExchange* pDX)
 
 # Show
 
-<video src="show.mp4">
-</video>
+<video id="show" src="show.mp4"></video>
+<script>
+    var video = document.getElementById('myVideo');
+    video.play();
+</script>
